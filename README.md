@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Himanshu Suthar
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science Engineering - Data Science
+- 👀 I’m interested in Codes
+- 🌱 I’m currently pursuing Computer Science Engineering - Data Science
 - 📫 How to reach me himanshujsuthar@gmail.com
