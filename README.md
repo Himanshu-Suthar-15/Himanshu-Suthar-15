@@ -2,3 +2,4 @@
 - 👀 I’m interested in Codes
 - 🌱 I’m currently pursuing Computer Science Engineering - Data Science
 - 📫 How to reach me himanshujsuthar@gmail.com
+himanshujsuthar15@gmail.com
